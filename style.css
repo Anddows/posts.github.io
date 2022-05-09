@@ -1,0 +1,20 @@
+.card {
+    width: 680px;
+    height: auto;
+    text-align: left;
+}
+
+.text1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #212121;
+}
+
+.author {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #424242;
+}
+
+.text-simply {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #424242;
+}
